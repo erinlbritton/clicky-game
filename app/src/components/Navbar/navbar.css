@@ -1,0 +1,42 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+  z-index: 1;
+}
+
+.leaf {
+  max-height: 45px;
+  margin-top: 12px;
+}
+
+.frame {
+  height: 45px;
+  white-space: nowrap;
+  text-align: center; 
+  margin: 1em 0;
+}
+
+.navbar-text {
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+.helper {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.rules-row {
+  background-color: #81bf49;
+  color: #fff;
+  font-size: 16px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+}
