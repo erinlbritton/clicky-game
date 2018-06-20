@@ -7,7 +7,7 @@ const Navbar = props => (
     <div className="container-fluid">
       <div className="row">
         <div className="col-md-4 col-sm-4">
-          <img className="leaf pull-left" src="../../images/leaf.png" alt="Animal Crossing Leaf Icon"/>
+          <img className="leaf pull-left" src="./images/leaf.png" alt="Animal Crossing Leaf Icon"/>
           <div className="navbar-text">Animal Crossing Memory</div>
         </div>
         <div className="col-md-2 col-md-offset-4 col-sm-4">
