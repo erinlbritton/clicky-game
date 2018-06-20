@@ -1,62 +1,62 @@
 [
     {
         "name": "Digby",
-        "image": "../images/Digby.png",
+        "image": "./images/Digby.png",
         "hasBeenClicked": false
     },
     {
         "name": "Dr. Shrunk",
-        "image": "../images/DrShrunk.png",
+        "image": "./images/DrShrunk.png",
         "hasBeenClicked": false
     },
     {
         "name": "Harvey",
-        "image": "../images/Harvey.png",
+        "image": "./images/Harvey.png",
         "hasBeenClicked": false
     },
     {
         "name": "Isabelle",
-        "image": "../images/Isabelle.png",
+        "image": "./images/Isabelle.png",
         "hasBeenClicked": false
     },
     {
         "name": "Katie",
-        "image": "../images/Katie.png",
+        "image": "./images/Katie.png",
         "hasBeenClicked": false
     },
     {
         "name": "K.K. Slider",
-        "image": "../images/KKSlider.png",
+        "image": "./images/KKSlider.png",
         "hasBeenClicked": false
     },
     {
         "name": "Leif",
-        "image": "../images/Leif.png",
+        "image": "./images/Leif.png",
         "hasBeenClicked": false
     },
     {
         "name": "Lyle",
-        "image": "../images/Lyle.png",
+        "image": "./images/Lyle.png",
         "hasBeenClicked": false
     },
     {
         "name": "Pete",
-        "image": "../images/Pete.png",
+        "image": "./images/Pete.png",
         "hasBeenClicked": false
     },
     {
         "name": "Porter",
-        "image": "../images/Porter.png",
+        "image": "./images/Porter.png",
         "hasBeenClicked": false
     },
     {
         "name": "Mr. Resetti",
-        "image": "../images/Resetti.png",
+        "image": "./images/Resetti.png",
         "hasBeenClicked": false
     },
     {
         "name": "Tom Nook",
-        "image": "../images/TomNook.png",
+        "image": "./images/TomNook.png",
         "hasBeenClicked": false
     }
 ]
